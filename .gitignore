@@ -23,7 +23,7 @@ Thumbs.db
 dataset/images/
 dataset/labels/
 dataset/train/
-dataset/val/
+dataset/validation/
 
 # YOLO outputs
 runs/
