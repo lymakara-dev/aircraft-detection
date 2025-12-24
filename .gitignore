@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Conda
+conda-meta/
+*.conda
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset (do NOT commit large data)
+dataset/images/
+dataset/labels/
+dataset/train/
+dataset/val/
+
+# YOLO outputs
+runs/
+
+# Models (optional: keep if you want)
+# models/*.pt
+
+# Logs
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
